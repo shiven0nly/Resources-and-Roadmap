@@ -52,16 +52,16 @@ Why I recommend it:
 
 ## 📦 Valuable GitHub Repositories
 
--  Developer Roadmap | https://github.com/kamranahmedse/developer-roadmap |
--  JavaScript 1000 Tricks | https://github.com/denysdovhan/wtfjs |
--  Awesome Cheatsheets | https://github.com/LeCoupa/awesome-cheatsheets |
--  Awesome Algorithms | https://github.com/tayllan/awesome-algorithms |
--  What Every Programmer Should Know | https://github.com/mtdvio/every-programmer-should-know |
--  Best Sites for Programmers | https://github.com/sdmg15/Best-websites-a-programmer-should-visit |
--  Front-End Interview Qs | https://github.com/h5bp/Front-end-Developer-Interview-Questions |
--  Tech Interview Handbook | https://github.com/yangshun/tech-interview-handbook |
--  JavaScript Interview Qs | https://github.com/sudheerj/javascript-interview-questions |
--  React.js Interview Qs | https://github.com/sudheerj/reactjs-interview-questions |
+-  Developer Roadmap | https://github.com/kamranahmedse/developer-roadmap 
+-  JavaScript 1000 Tricks | https://github.com/denysdovhan/wtfjs 
+-  Awesome Cheatsheets | https://github.com/LeCoupa/awesome-cheatsheets 
+-  Awesome Algorithms | https://github.com/tayllan/awesome-algorithms 
+-  What Every Programmer Should Know | https://github.com/mtdvio/every-programmer-should-know 
+-  Best Sites for Programmers | https://github.com/sdmg15/Best-websites-a-programmer-should-visit 
+-  Front-End Interview Qs | https://github.com/h5bp/Front-end-Developer-Interview-Questions 
+-  Tech Interview Handbook | https://github.com/yangshun/tech-interview-handbook 
+-  JavaScript Interview Qs | https://github.com/sudheerj/javascript-interview-questions 
+-  React.js Interview Qs | https://github.com/sudheerj/reactjs-interview-questions 
 
 ---
 
@@ -76,11 +76,11 @@ Why I recommend it:
 
 ---
 
-## 🧠 DSA Plan (Python)
+## 👨‍💻 DSA Plan (Python)
 
 I've decided to learn DSA using **Python**, since it's highly useful for scripting, APIs, and automation — perfect for a full-stack developer.
 
-### 😎 Beginner Level DSA
+###  Beginner Level DSA
 - Linear/Binary Search
 - Bubble/Selection/Insertion Sort
 - Merge & Quick Sort
@@ -89,7 +89,7 @@ I've decided to learn DSA using **Python**, since it's highly useful for scripti
 - Prefix Sum & Difference Arrays
 - Flood Fill (DFS/BFS on grid)
 
-### 🔥 Intermediate Level DSA
+###  Intermediate Level DSA
 - Hashing, Maps, Frequency Counting
 - Heap / Priority Queue
 - Binary Search on Answer
@@ -100,9 +100,9 @@ I've decided to learn DSA using **Python**, since it's highly useful for scripti
 
 ---
 
-## 🚧 More Coming Soon...
+## More Coming Soon...
 
-This repo is under active development — new roadmaps, resources, and notes are being added as I progress. Stay tuned 👨‍💻💪
+This repo is under active development — new roadmaps, resources, and notes are being added as I progress. Stay tuned 👨‍💻
 
 ---
 
