@@ -58,7 +58,7 @@
  10. **React.js InterView Qs** : https://github.com/sudheerj/reactjs-interview-questions
 
 
-# 🤷Project Ideas :
+# 🤷Project Ideas (Available on YT):
 
 1. Netflix Clone by 'Code with Harry'
 2. Personal AI using Python by 'Code with Harry'
@@ -71,7 +71,6 @@
 
  **I Decided to do DSA in 'Python' as Python is also used in DB automations,
  APIs, Scripts, AI etc, it will be helpful in full-stack also**
-
 # 😵‍💫 IMP DSA TOPICS :
 
 ## Beginner Level :
@@ -96,8 +95,6 @@
 - Union-Find/Disjoint Set Union(DSU)
 - KMP Algorithm (pattern Matching)
 - Rabin-Karp Algorithm (string Matching)
-
-  # More Coming Soon... 
 - DFS & BFS (graph Traversals)
 - Topological Sort (kahn’s Algorithm)
 - Dijkstra’s Algorithm(shortest Path)
