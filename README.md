@@ -40,13 +40,8 @@
   ## 💫 GIT & GITHUB :
    from SuperSimpleDev
 
-   **Part 1** = "https://youtu.be/hrTQipWp6co?si=tHZ8Eq61ZLhoXsNr"
-   **Part 2** = "https://youtu.be/1ibmWyt8hfw?si=x5OwVPiNtpms3ICf"
-
-## 👨‍💻 For DSA :
-
- **I Decided to do DSA in 'Python' as Python is also used in DB automations,
- APIs, Scripts, AI etc, it will be helpful in full-stack also**
+   - **Part 1** = "https://youtu.be/hrTQipWp6co?si=tHZ8Eq61ZLhoXsNr"
+   - **Part 2** = "https://youtu.be/1ibmWyt8hfw?si=x5OwVPiNtpms3ICf"
 
 
  # IMPORTANT GITHUB REPOSITORIES COLLECTED BY "SHIVEN" 
@@ -71,6 +66,11 @@
 4. Banking Web App by 'JavaScript Mastry'
 5. E-Commerce Site by 'GreatStack;
 6. Booking App by 'Code with Dawid'
+
+## 👨‍💻 For DSA :
+
+ **I Decided to do DSA in 'Python' as Python is also used in DB automations,
+ APIs, Scripts, AI etc, it will be helpful in full-stack also**
 
 # 😵‍💫 IMP DSA TOPICS :
 
