@@ -1,104 +1,116 @@
-# Here in this I am Uploading the Resources and Roadmap I am Using or I will Use , if U find it Valuable for u or u gonna use it make sure to 'Star this Repo' :)
+# 📚 Resources and Roadmap by Shiven
 
-# 🛣️ Front-End Roadmap :
-## 1) Basics :
-   - HTML
-   - CSS
-   - JAVASCRIPT
+Welcome to my personal roadmap and resource repo — a curated journey I'm following (and will keep updating) as I dive deeper into Web Development, DSA, and beyond.
 
-## 2) Front-End Design :
-   - React.js
-   - Angular.js 
-   - Vue.js (can be done later)
+If this helps you or you're planning to use it — **don’t forget to ⭐️ star this repo**! 🙌
 
-## 3) Back-End :
-   - Node.js
-   - Next.js
-   - Express.js
-
-## 4) DataBases :
-   - MongoDB
-   - SQL
-   - PostgreSqL
-     
 ---
 
-# 📁 Resources :
+## 🛣️ Front-End Development Roadmap
 
-  ## I Personally like 'Sigma Web Development Course' by "CODE WITH HARRY" link 👇
-  "https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w"
-  
-   **Because, Features :**
-  - HTML , CSS , JavaScript From Basics
-  - **React.js, Node.js, Express.js, Next.js, MongoDB, TailwindCSS** (Almost Complete web dev)
-  - Many Good To Pro Level Projects in Between According to topics.
-  - All Code he used in the course available at ”https://github.com/CodeWithHarry/Sigma-Web-Dev-Course?search=1”
-  - All Languages Handwritten Notes Available at Free ”https://www.codewithharry.com/notes”
-  - Humourous Content so u wont get Bored
-  - He also gives good advices in-between.
+### 1️⃣ Basics
+- HTML
+- CSS
+- JavaScript
 
-  ## 💫 GIT & GITHUB :
-   from SuperSimpleDev
+### 2️⃣ Front-End Design
+- React.js
+- Angular.js
+- Vue.js *(optional / later)*
 
-   - **Part 1** = "https://youtu.be/hrTQipWp6co?si=tHZ8Eq61ZLhoXsNr"
-   - **Part 2** = "https://youtu.be/1ibmWyt8hfw?si=x5OwVPiNtpms3ICf"
+### 3️⃣ Back-End (for Full-Stack)
+- Node.js
+- Next.js
+- Express.js
 
+### 4️⃣ Databases
+- MongoDB
+- SQL
+- PostgreSQL
 
- # IMPORTANT GITHUB REPOSITORIES COLLECTED BY "SHIVEN" 
+---
 
- 1. **Developer Roadmap** : https://github.com/kamranahmedse/developer-roadmap/tree/master
- 2. **JavaScript 1000 Tricks** : https://github.com/denysdovhan/wtfjs
- 3. **Awesome Cheatsheets** : https://github.com/LeCoupa/awesome-cheatsheets
- 4. **Awesome Algorithms** : https://github.com/tayllan/awesome-algorithms
- 5. **Every Programmar Should Know**: https://github.com/mtdvio/every-programmer-should-know
- 6. **Best Sites Every Programmar Should Visit** : https://github.com/sdmg15/Best-websites-a-programmer-should-visit
- 7. **Front-End Dev Interview Questions** : https://github.com/h5bp/Front-end-Developer-Interview-Questions
- 8. **Tech InterView  HandBook** : https://github.com/yangshun/tech-interview-handbook
- 9. **JavaScript InterView Qs** : https://github.com/sudheerj/javascript-interview-questions
- 10. **React.js InterView Qs** : https://github.com/sudheerj/reactjs-interview-questions
+## 🔗 Top Resources
 
+### 📺 Sigma Web Development Course by *CodeWithHarry*
+[On YouTube](https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w)
 
-# 🤷Project Ideas (Available on YT):
+Why I recommend it:
+- Covers HTML, CSS, JavaScript from scratch
+- Full-stack: React, Node, Express, Next, MongoDB, TailwindCSS
+- Realistic, topic-wise projects
+- [All source code](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course?search=1)
+- [Free handwritten notes](https://www.codewithharry.com/notes)
+- Humor + guidance = never boring!
 
-1. Netflix Clone by 'Code with Harry'
-2. Personal AI using Python by 'Code with Harry'
-3. Uber Clone by 'Sheryians'
-4. Banking Web App by 'JavaScript Mastry'
-5. E-Commerce Site by 'GreatStack;
-6. Booking App by 'Code with Dawid'
+### 💫 Git & GitHub (from SuperSimpleDev)
+- [Part 1](https://youtu.be/hrTQipWp6co?si=tHZ8Eq61ZLhoXsNr)
+- [Part 2](https://youtu.be/1ibmWyt8hfw?si=x5OwVPiNtpms3ICf)
 
-## 👨‍💻 For DSA :
+---
 
- **I Decided to do DSA in 'Python' as Python is also used in DB automations,
- APIs, Scripts, AI etc, it will be helpful in full-stack also**
-# 😵‍💫 IMP DSA TOPICS :
+## 📦 Valuable GitHub Repositories
 
-## Beginner Level :
-- Linear search
-- Binary Search
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort
-- Two Pointers Technique
-- Sliding Window Technique.
-- Kadane’s Algo (Subarray Sum)
+- 1. Developer Roadmap | https://github.com/kamranahmedse/developer-roadmap |
+- 2. JavaScript 1000 Tricks | https://github.com/denysdovhan/wtfjs |
+- 3. Awesome Cheatsheets | https://github.com/LeCoupa/awesome-cheatsheets |
+- 4. Awesome Algorithms | https://github.com/tayllan/awesome-algorithms |
+- 5. What Every Programmer Should Know | https://github.com/mtdvio/every-programmer-should-know |
+- 6.  Best Sites for Programmers | https://github.com/sdmg15/Best-websites-a-programmer-should-visit |
+- 7. Front-End Interview Qs | https://github.com/h5bp/Front-end-Developer-Interview-Questions |
+- 8.  Tech Interview Handbook | https://github.com/yangshun/tech-interview-handbook |
+- 9.  JavaScript Interview Qs | https://github.com/sudheerj/javascript-interview-questions |
+- 10. React.js Interview Qs | https://github.com/sudheerj/reactjs-interview-questions |
+
+---
+
+## 💡 Project Ideas (from YouTube)
+
+1. Netflix Clone — *CodeWithHarry*  
+2. Personal AI with Python — *CodeWithHarry*  
+3. Uber Clone — *Sheryians Coding School*  
+4. Banking Web App — *JavaScript Mastery*  
+5. E-commerce Site — *GreatStack*  
+6. Booking App — *CodeWithDawid*
+
+---
+
+## 🧠 DSA Plan (Python)
+
+I've decided to learn DSA using **Python**, since it's highly useful for scripting, APIs, and automation — perfect for a full-stack developer.
+
+### 😎 Beginner Level DSA
+- Linear/Binary Search
+- Bubble/Selection/Insertion Sort
+- Merge & Quick Sort
+- Two Pointers & Sliding Window
+- Kadane’s Algorithm
 - Prefix Sum & Difference Arrays
-- FLood FIll ALgo (DFS/BFS for grid problems)
+- Flood Fill (DFS/BFS on grid)
 
-## InterMediate Level DSA :
+### 🔥 Intermediate Level
+- Hashing, Maps, Frequency Counting
+- Heap / Priority Queue
+- Binary Search on Answer
+- Union-Find / DSU
+- KMP & Rabin-Karp (String Matching)
+- DFS, BFS, Topological Sort (Kahn's)
+- Dijkstra, Bellman-Ford, Floyd-Warshall
 
-- Hashing (Maps, Sets, Frequencies)
-- Heap/ Priority Queue Algorithms.
-- Binary Search an Answer.
-- Union-Find/Disjoint Set Union(DSU)
-- KMP Algorithm (pattern Matching)
-- Rabin-Karp Algorithm (string Matching)
-- DFS & BFS (graph Traversals)
-- Topological Sort (kahn’s Algorithm)
-- Dijkstra’s Algorithm(shortest Path)
-- Bellman-Ford Algorithm(Shortest path with Negative Weights)
-- Floyd-Warshall Algorithm (All-pairs shortest path)
+---
 
-# More Coming Soon.... 
+## 🚧 More Coming Soon...
+
+This repo is under active development — new roadmaps, resources, and notes are being added as I progress. Stay tuned 👨‍💻💪
+
+---
+
+## 🤝 Let's Connect!
+
+- 📧 Mail: [shiven676@gmail.com](mailto:shiven0nly@gmail.com)
+- 🐙 GitHub: [github.com/shiven0nly](https://github.com/shiven0nly)
+
+---
+
+⭐️ **Star this repo if it helped you**  
+🛠️ **Fork it if you want to add your own path**
