@@ -52,16 +52,16 @@ Why I recommend it:
 
 ## 📦 Valuable GitHub Repositories
 
-- 1. Developer Roadmap | https://github.com/kamranahmedse/developer-roadmap |
-- 2. JavaScript 1000 Tricks | https://github.com/denysdovhan/wtfjs |
-- 3. Awesome Cheatsheets | https://github.com/LeCoupa/awesome-cheatsheets |
-- 4. Awesome Algorithms | https://github.com/tayllan/awesome-algorithms |
-- 5. What Every Programmer Should Know | https://github.com/mtdvio/every-programmer-should-know |
-- 6.  Best Sites for Programmers | https://github.com/sdmg15/Best-websites-a-programmer-should-visit |
-- 7. Front-End Interview Qs | https://github.com/h5bp/Front-end-Developer-Interview-Questions |
-- 8.  Tech Interview Handbook | https://github.com/yangshun/tech-interview-handbook |
-- 9.  JavaScript Interview Qs | https://github.com/sudheerj/javascript-interview-questions |
-- 10. React.js Interview Qs | https://github.com/sudheerj/reactjs-interview-questions |
+-  Developer Roadmap | https://github.com/kamranahmedse/developer-roadmap |
+-  JavaScript 1000 Tricks | https://github.com/denysdovhan/wtfjs |
+-  Awesome Cheatsheets | https://github.com/LeCoupa/awesome-cheatsheets |
+-  Awesome Algorithms | https://github.com/tayllan/awesome-algorithms |
+-  What Every Programmer Should Know | https://github.com/mtdvio/every-programmer-should-know |
+-  Best Sites for Programmers | https://github.com/sdmg15/Best-websites-a-programmer-should-visit |
+-  Front-End Interview Qs | https://github.com/h5bp/Front-end-Developer-Interview-Questions |
+-  Tech Interview Handbook | https://github.com/yangshun/tech-interview-handbook |
+-  JavaScript Interview Qs | https://github.com/sudheerj/javascript-interview-questions |
+-  React.js Interview Qs | https://github.com/sudheerj/reactjs-interview-questions |
 
 ---
 
