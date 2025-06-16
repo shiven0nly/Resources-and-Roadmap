@@ -41,7 +41,7 @@ Why I recommend it:
 - Realistic, topic-wise projects
 - [All source code by 'Code with Harry'](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course?search=1)
 - [Free handwritten notes by 'Code With Harry'](https://www.codewithharry.com/notes)
-- Humor
+- Humorous
 - U would here some useful advices in between
 
 ### 💫 Git & GitHub (from SuperSimpleDev)
