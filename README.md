@@ -33,14 +33,14 @@ If this helps you or you're planning to use it — **don’t forget to ⭐️ st
 ## 🔗 Top Resources
 
 ### 📺 Sigma Web Development Course by *CodeWithHarry*
-[On YouTube](https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w)
+[Sigma Web Developmet Course YouTube](https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w)
 
 Why I recommend it:
 - Covers HTML, CSS, JavaScript from scratch
 - Full-stack: React, Node, Express, Next, MongoDB, TailwindCSS
 - Realistic, topic-wise projects
-- [All source code](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course?search=1)
-- [Free handwritten notes](https://www.codewithharry.com/notes)
+- [All source code by 'Code with Harry'](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course?search=1)
+- [Free handwritten notes by 'Code With Harry'](https://www.codewithharry.com/notes)
 - Humor + guidance = never boring!
 
 ### 💫 Git & GitHub (from SuperSimpleDev)
@@ -88,7 +88,7 @@ I've decided to learn DSA using **Python**, since it's highly useful for scripti
 - Prefix Sum & Difference Arrays
 - Flood Fill (DFS/BFS on grid)
 
-### 🔥 Intermediate Level
+### 🔥 Intermediate Level DSA
 - Hashing, Maps, Frequency Counting
 - Heap / Priority Queue
 - Binary Search on Answer
@@ -102,13 +102,6 @@ I've decided to learn DSA using **Python**, since it's highly useful for scripti
 ## 🚧 More Coming Soon...
 
 This repo is under active development — new roadmaps, resources, and notes are being added as I progress. Stay tuned 👨‍💻💪
-
----
-
-## 🤝 Let's Connect!
-
-- 📧 Mail: [shiven676@gmail.com](mailto:shiven0nly@gmail.com)
-- 🐙 GitHub: [github.com/shiven0nly](https://github.com/shiven0nly)
 
 ---
 
