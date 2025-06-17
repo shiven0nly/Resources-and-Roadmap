@@ -79,10 +79,10 @@ Why I recommend it:
 
 # 🤠 Goals :
 
-### [] React.js
-### [] Node.js + Express.js
-### [] Next.js 
-### [] MongoDB
+### [ ] React.js
+### [ ] Node.js + Express.js
+### [ ] Next.js 
+### [ ] MongoDB
 
 **I am thinking to learn C++ and do DSA in it after Full Stack development , its just a plan for now, maybe i will change it in Future**
 
