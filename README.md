@@ -77,25 +77,14 @@ Why I recommend it:
 
 ---
 
-## 👨‍💻 DSA IMP :
+# 🤠 Goals :
 
-###  Beginner Level DSA
-- Linear/Binary Search
-- Bubble/Selection/Insertion Sort
-- Merge & Quick Sort
-- Two Pointers & Sliding Window
-- Kadane’s Algorithm
-- Prefix Sum & Difference Arrays
-- Flood Fill (DFS/BFS on grid)
+### 1. React.js
+### 2. Node.js + Express.js
+### 3. Next.js 
+### 4. MongoDB
 
-###  Intermediate Level DSA
-- Hashing, Maps, Frequency Counting
-- Heap / Priority Queue
-- Binary Search on Answer
-- Union-Find / DSU
-- KMP & Rabin-Karp (String Matching)
-- DFS, BFS, Topological Sort (Kahn's)
-- Dijkstra, Bellman-Ford, Floyd-Warshall
+**I am thinking to learn C++ and do DSA in it after Full Stack development , its just a plan for now, maybe i will change it in Future**
 
 ---
 
