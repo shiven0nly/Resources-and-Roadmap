@@ -77,14 +77,21 @@ Why I recommend it:
 
 ---
 
-# 🤠 Goals :
+# ✍️ Goals :
 
 ### [ ] React.js
 ### [ ] Node.js + Express.js
 ### [ ] Next.js 
 ### [ ] MongoDB
 
-**I am thinking to learn C++ and do DSA in it after Full Stack development , its just a plan for now, maybe i will change it in Future**
+**After MERN I am thinking to learn python**
+*Reasons:*
+- Used In Backend Also
+- Used In APIs
+- Used in Ai
+- Also Helpful in Front-End
+  
+*Its just, i planned for now, maybe it will change in future*
 
 ---
 
