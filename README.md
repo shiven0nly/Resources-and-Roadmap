@@ -6,7 +6,7 @@ If this helps you or you're planning to use it — **don’t forget to ⭐️ st
 
 ---
 
-## 🛣️ Front-End Development Roadmap
+## 🛣️ Full Stack Web Development Roadmap
 
 ### 1️⃣ Basics
 - HTML
