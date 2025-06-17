@@ -83,14 +83,14 @@ I've decided to learn DSA using **Python**, since it's highly useful for scripti
 
 ### Python with :
 
-- Python + Pandas = 'Data manipulation'
-- Python + Seaborn = 'Statistical Data Visualization'
-- Python + Scikit-learn = 'Machine Learning'
-- Python + Tensor Flow = 'Deep Learning'
-- Python + Selenium = 'Browser Automation'
-- Python + FastAPI = 'High Performance APIs'
-- Python + Flask = 'Web development(Back-End)'
-- Python + Django = 'Full Stack Web Development'
+- Python + Pandas = *Data manipulation*
+- Python + Seaborn = *Statistical Data Visualization*
+- Python + Scikit-learn = *Machine Learning*
+- Python + Tensor Flow = *Deep Learning*
+- Python + Selenium = *Browser Automation*
+- Python + FastAPI = *High Performance APIs*
+- Python + Flask = *Web development(Back-End)*
+- Python + Django = *Full Stack Web Development*
 
 ###  Beginner Level DSA
 - Linear/Binary Search
