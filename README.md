@@ -55,7 +55,8 @@ Why I recommend it:
 -  Developer Roadmap | https://github.com/kamranahmedse/developer-roadmap 
 -  JavaScript 1000 Tricks | https://github.com/denysdovhan/wtfjs 
 -  Awesome Cheatsheets | https://github.com/LeCoupa/awesome-cheatsheets 
--  Awesome Algorithms | https://github.com/tayllan/awesome-algorithms 
+-  Awesome Algorithms | https://github.com/tayllan/awesome-algorithms
+-  Project ideas and Resources | https://github.com/The-Cool-Coders/Project-Ideas-And-Resources
 -  What Every Programmer Should Know | https://github.com/mtdvio/every-programmer-should-know 
 -  Best Sites for Programmers | https://github.com/sdmg15/Best-websites-a-programmer-should-visit 
 -  Front-End Interview Qs | https://github.com/h5bp/Front-end-Developer-Interview-Questions 
@@ -79,6 +80,17 @@ Why I recommend it:
 ## 👨‍💻 DSA Plan (Python)
 
 I've decided to learn DSA using **Python**, since it's highly useful for scripting, APIs, and automation — perfect for a full-stack developer.
+
+### Python with :
+
+- Python + Pandas = 'Data manipulation'
+- Python + Seaborn = 'Statistical Data Visualization'
+- Python + Scikit-learn = 'Machine Learning'
+- Python + Tensor Flow = 'Deep Learning'
+- Python + Selenium = 'Browser Automation'
+- Python + FastAPI = 'High Performance APIs'
+- Python + Flask = 'Web development(Back-End)'
+- Python + Django = 'Full Stack Web Development'
 
 ###  Beginner Level DSA
 - Linear/Binary Search
