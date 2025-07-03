@@ -63,7 +63,7 @@ Why I recommend it:
 -  Tech Interview Handbook | https://github.com/yangshun/tech-interview-handbook 
 -  JavaScript Interview Qs | https://github.com/sudheerj/javascript-interview-questions 
 -  React.js Interview Qs | https://github.com/sudheerj/reactjs-interview-questions 
-
+- n8n workflows automation 1000 repos | https://github.com/Zie619/n8n-workflows/tree/main/workflows
 ---
 
 ## 💡 Project Ideas (from YouTube)
